@@ -2,6 +2,8 @@
 
 Die **Binäruhr** ist eine innovative und faszinierende Art der Zeitmessung, die anstelle des traditionellen Dezimal- oder 12/24-Stunden-Formats auf einem binären Zahlensystem basiert. Im Gegensatz zu herkömmlichen Uhren, die Ziffern oder Zeiger verwenden, zeigt eine Binäruhr die Zeit durch leuchtende oder deaktivierte Felder an, die den Status von Bits repräsentieren.
 
+<a href="https://marcdziersan.github.io/binaeruhr/binaer.html">DEMO</a>
+
 ## Ursprung und Geschichte
 
 Die Idee der Binäruhr basiert auf dem binären Zahlensystem, das von Gottfried Wilhelm Leibniz im 17. Jahrhundert entwickelt wurde und die Grundlage moderner Computertechnologie bildet. Die Anwendung dieses Zahlensystems auf die Zeitmessung ist eine relativ neue Entwicklung, die mit dem Aufkommen digitaler Technik und experimenteller Uhrendesigns an Popularität gewonnen hat.
